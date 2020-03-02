@@ -44,20 +44,28 @@ h1 {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
+    margin-left: 30px;
 }
 h2 {
     color: gray;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 10px;
+    font-size: 12px;
+    margin-left:30Px;
 }
 h3 {
     color: gray;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 8px;
+    font-size: 10px;
+    margin-left: 30px;
 }
-.box{
-    display: grid;
+.box{   
+    display:grid;
+    grid-template-columns: 1fr 1fr;
     color: white;
-    width: 10px;
-    height: 5px;
+    width: 60px;
+    height: 20px;
+    margin: 20px;
+}
+button {
+    margin:10px;
 }
