@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  .section2 {
+    line-height: 1.55em;
+  }
+  .section2 .text {
+    font-family: 'Nunito Sans';
+    font-size: 17px;
+    padding: 30px 80px;
+    width: 45%;
+    
+  
+  }
+      
+  .section2 .quote {
+    font-family: 'Source Code Pro';
+    background-color: #f4f4f4;
+    padding: 30px 80px;
+    
+  }
